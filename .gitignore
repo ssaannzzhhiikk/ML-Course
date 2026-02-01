@@ -1,0 +1,6 @@
+# IntelliJ / PyCharm
+.idea/
+*.iml
+
+# Jupyter
+.ipynb_checkpoints/
